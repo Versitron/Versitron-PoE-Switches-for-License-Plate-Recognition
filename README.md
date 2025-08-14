@@ -74,4 +74,4 @@ Enable smart lot management with dependable PoE connectivity.
 Source PoE switches for license plate recognition, LED lot lighting control, and lot occupancy sensors with certified, reliable performance and expert support.
 
 ---
-[Check All the Products in this Collection]()
+[Check All the Products in this Collection](https://www.versitron.com/products/sf70460mpa-4port-101001000-industrial-managed-switch-with-2-pse-poe-ports-2-100m1g-fiber-sfp-slots)
